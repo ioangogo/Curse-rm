@@ -10,7 +10,7 @@ Commands
 
 #####star(instring)
 
-This command will returen the string you put in with profanitys replaced with stars
+This command will return the string you put in with profanitys replaced with stars
 
 ######Example
 
